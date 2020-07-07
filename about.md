@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Quadrate Tech School
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Quadrate Tech School is a complete free virtual Academy to learn new programming languages and other skills are which required by the IT industry, Quadrate Tech School is completely free for everyone & sponsored by Quadrate Tech Solutions to contribute to the growth of local IT community and share the knowledge with international Software Developers, all our content creators and virtual lecturers are providing volunteer service or paid by Quadrate Tech Solutions
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[quadratesolutions@gmail.com](mailto:quadratesolutions@gmail.com)

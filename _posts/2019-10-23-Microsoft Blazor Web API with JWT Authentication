@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Microsoft Blazor Web API with JWT Authentication"
+date: 2019-10-23T09:54:59+05:30
+categories: Dot-Net-Technologies
+---
+
 !["NET-Core"](https://i.ibb.co/0FgXTx0/1-zaw5-Gv-QLr-Bs-EED68-Ce-M9ew.png)
 
 <p>I would like to share a guide on how to implement a JWT Authentication system into a Dotnet Core 2 Web API project that uses Microsofts new Blazor, but this same guide can be used for regular Asp.Net core 2 Web API’s.</p>

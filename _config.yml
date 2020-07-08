@@ -5,7 +5,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://quadrate.lk" # the base hostname & protocol for your site, e.g. http://example.com
 
 
-github_username:  nirzaf
+github_username:  quadrate-tech
 
 # Build settings
 theme: minima

@@ -28,7 +28,6 @@ url: "https://quadrate.lk" # the base hostname & protocol for your site, e.g. ht
 
 github_username:  nirzaf
 
-# Build settings
 theme: minima
 plugins:
   - jekyll-feed

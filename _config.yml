@@ -8,7 +8,7 @@ url: "https://quadrate-tech.github.io/" # the base hostname & protocol for your 
 github_username:  quadrate-tech
 
 # Build settings
-theme: 
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 

@@ -157,7 +157,7 @@ First step, let’s create an IdentityDbContext which is part of Entity Framewor
 
 <p>Now we need to hook up the Sql connection string in the appsettings.json which is located at the root lever of the Server project. We will modify or add in the connection string depending on if your file contains a template already.</p>
 
-{{< highlight java>}}
+{{< highlight python>}}
 "ConnectionStrings": {
 "DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=JwtAuthenticationTutorial;Trusted_Connection=True;MultipleActiveResultSets=true"
 }

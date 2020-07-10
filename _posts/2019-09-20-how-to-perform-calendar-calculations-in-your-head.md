@@ -1,7 +1,6 @@
 ---
 title: "How to perform calendar calculations in your head"
 date: 2019-09-20T13:13:01+05:30
-image: "https://res.cloudinary.com/dw0ygv1p9/image/upload/v1571614434/calculator_te6ik2.png"
 tags: ["logical-thinking"]
 ---
 ![so-called calendrical savant (or calendar savant) is](https://res.cloudinary.com/dw0ygv1p9/image/upload/v1571614434/calculator_te6ik2.png)

@@ -1,7 +1,6 @@
 ---
 title: "Trending Programming Languages in 2020"
 date: 2019-10-20T13:13:01+05:30
-image: "https://res.cloudinary.com/dw0ygv1p9/image/upload/v1571629800/trending2020_oxfqm0.jpg"
 tags: ["Technical-contents"]
 ---
 ## 2020 is almost here, as crazy as that sounds

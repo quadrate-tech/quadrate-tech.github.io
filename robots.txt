@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://quadrate-tech.com/sitemap.xml
+Disallow: /ghost/
